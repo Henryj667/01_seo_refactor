@@ -19,3 +19,14 @@
 1. Cleaned up HTML
 1. Changed title from "title" to "Horiseon"
 1. added Viewport meta tag
+1. moved cover image from CSS to HTML and added alt tag
+1. renamed some of the CSS in order to clean up clutter in the index file
+
+## Suggestions
+
+1. Make the nav links easier to identify 
+1. Change main content text size to make it easier for the user to read
+
+## Summery 
+
+I organized the code to make it HTML semantic, and reworked the CSS to make it less repetetive, I also fixed the broken nav bar link and added alt attributes to all images on the page to optimize accessability.
